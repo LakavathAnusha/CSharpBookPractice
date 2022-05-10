@@ -1,0 +1,7 @@
+C:\Users\Anusha.Lakavath\source\repos\CSharpBookPractice\CSharpBookPractice\bin\Debug\CSharpBookPractice.exe.config
+C:\Users\Anusha.Lakavath\source\repos\CSharpBookPractice\CSharpBookPractice\bin\Debug\CSharpBookPractice.exe
+C:\Users\Anusha.Lakavath\source\repos\CSharpBookPractice\CSharpBookPractice\bin\Debug\CSharpBookPractice.pdb
+C:\Users\Anusha.Lakavath\source\repos\CSharpBookPractice\CSharpBookPractice\obj\Debug\CSharpBookPractice.csproj.AssemblyReference.cache
+C:\Users\Anusha.Lakavath\source\repos\CSharpBookPractice\CSharpBookPractice\obj\Debug\CSharpBookPractice.csproj.CoreCompileInputs.cache
+C:\Users\Anusha.Lakavath\source\repos\CSharpBookPractice\CSharpBookPractice\obj\Debug\CSharpBookPractice.exe
+C:\Users\Anusha.Lakavath\source\repos\CSharpBookPractice\CSharpBookPractice\obj\Debug\CSharpBookPractice.pdb
