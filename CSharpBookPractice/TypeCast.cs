@@ -8,9 +8,9 @@ namespace CSharpBookPractice
 {
     class TypeCast
     {
-        int a;
-        a = (float)(10 / 5);
+       // float a;
+        //a = (float)(10 / 5);
 
-        
+        //Use of mathf is done.
     }
 }
