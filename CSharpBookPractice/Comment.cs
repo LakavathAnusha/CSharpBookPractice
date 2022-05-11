@@ -14,7 +14,7 @@ namespace CSharpBookPractice
         /// </summary>
         /// 
         int number;
-        double num;
-
+       // double num;
+        double num = 30;
     }
 }
